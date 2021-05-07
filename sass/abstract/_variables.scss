@@ -1,0 +1,23 @@
+$color-primary-1: #ffef00;
+$color-primary-2:violet;
+$color-primary-3:orange;
+$color-primary-4:blue;
+$color-primary-5: #cb9d06;
+
+$color-neutral-1: grey;
+$color-neutral-2: black;
+$color-neutral-3: white;
+
+$color-secondary-1: darken($color-primary-1,15%);
+$color-secondary-2: darken($color-primary-2,15%);
+$color-secondary-3: darken($color-primary-3,15%);
+$color-secondary-4: darken($color-primary-4,15%);
+
+
+$color-secondary-5: lighten($color-primary-1,15%);
+$color-secondary-6: lighten($color-primary-2,15%);
+$color-secondary-7: lighten($color-primary-3,15%);
+$color-secondary-8: lighten($color-primary-4,15%);
+$color-secondary-9: darken($color-primary-5,15%);
+$color-secondary-10: lighten($color-primary-4,15%);
+

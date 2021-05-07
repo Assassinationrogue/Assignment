@@ -1,0 +1,28 @@
+@import 'abstract/variables';
+@import 'abstract/mixin';
+
+@import 'vendor/bootstrap';
+
+
+@import 'base/typography';
+
+@import 'layout/nav';
+
+@import 'layout/header';
+@import 'layout/footer';
+
+@import 'layout/forms';
+
+@import 'components/buttons';
+
+@import 'components/dropdown';
+
+@import 'pages/home';
+@import 'pages/contact';
+
+*,
+*::after,*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
